@@ -1,0 +1,7 @@
+words.txt and shortcuts.txt are derived from en_US_wordlist.combined.gz in the
+Android Open Source Project (platform/packages/inputmethods/LatinIME/dictionaries).
+
+Copyright (c) 2008, The Android Open Source Project
+Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
+Changes: reformatted, lowercased keys, offensive words marked never-suggest,
+a few everyday chat words added (tools/build_dict.py).

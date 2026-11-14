@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No subtypes: the keyboard has no languages to list or switch between. -->
+<input-method xmlns:android="http://schemas.android.com/apk/res/android" />

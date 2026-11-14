@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Caps lock: filled up arrow with a bar under it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:pathData="M12,3 L4,11.5 H8.5 V16 H15.5 V11.5 H20 Z"
+        android:strokeColor="#FFFFFF" android:strokeWidth="1.8"
+        android:strokeLineJoin="round" android:fillColor="#FFFFFF" />
+    <path android:pathData="M8.5,18.5 H15.5 V21 H8.5 Z" android:fillColor="#FFFFFF" />
+</vector>
